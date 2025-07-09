@@ -1,8 +1,11 @@
 # Kinesis Advantage 360 Pro ZMK Config
 
-## How to reset Bluetooth connection in Mac OS
+## List of Important Operations That Are Annoying to Forget 
 
-Press `&mo 3` + `&kp LGUI` 
+SEE: https://github.com/nabetama/Adv360-Pro-ZMK/blob/V3.0/config/keymap.json
+
+- Reset Bluetooth Connection with a PC
+  - `&mo 3` + `&kp LGUI`
 
 ## Modifying the keymap
 
